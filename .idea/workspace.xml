@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48abecfb-1c2c-4837-8637-dad6eac299e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS114.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BacktrackAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LangChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursionExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedListIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lbepqo3kLmhpysHUh0qMxaC6TB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bombayv/Documents/IdeaProjects/CS114/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48abecfb-1c2c-4837-8637-dad6eac299e2" name="Changes" comment="" />
+      <created>1725453389002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725453389002</updated>
+      <workItem from="1725453392265" duration="30000" />
+      <workItem from="1725453440979" duration="10000" />
+      <workItem from="1725453454787" duration="79000" />
+      <workItem from="1725453537696" duration="4031000" />
+      <workItem from="1725471603013" duration="224000" />
+      <workItem from="1725500860955" duration="76000" />
+      <workItem from="1725885167152" duration="32000" />
+      <workItem from="1725885203666" duration="4043000" />
+      <workItem from="1726058171505" duration="14430000" />
+      <workItem from="1726490249480" duration="450000" />
+      <workItem from="1726490779049" duration="2370000" />
+      <workItem from="1726663609456" duration="3546000" />
+      <workItem from="1727094822101" duration="25000" />
+      <workItem from="1727094861879" duration="3601000" />
+      <workItem from="1727267632835" duration="4266000" />
+      <workItem from="1727373024611" duration="32000" />
+      <workItem from="1727373061224" duration="3598000" />
+      <workItem from="1727385708276" duration="266000" />
+      <workItem from="1727872448782" duration="284000" />
+      <workItem from="1727876028024" duration="2177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
