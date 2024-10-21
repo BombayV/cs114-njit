@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48abecfb-1c2c-4837-8637-dad6eac299e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS114.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BacktrackAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LangChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortedListIterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortsV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +40,13 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorts.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bombayv/Documents/IdeaProjects/CS114/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bombayv/Documents/Development/IdeaProjects/CS114&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -109,7 +91,15 @@
       <workItem from="1727373061224" duration="3598000" />
       <workItem from="1727385708276" duration="266000" />
       <workItem from="1727872448782" duration="284000" />
-      <workItem from="1727876028024" duration="2177000" />
+      <workItem from="1727876028024" duration="2897000" />
+      <workItem from="1728307810385" duration="650000" />
+      <workItem from="1728477992592" duration="3859000" />
+      <workItem from="1728910663784" duration="1496000" />
+      <workItem from="1729057059601" duration="1000" />
+      <workItem from="1729083914984" duration="207000" />
+      <workItem from="1729184079789" duration="3168000" />
+      <workItem from="1729471071768" duration="671000" />
+      <workItem from="1729518190475" duration="2721000" />
     </task>
     <servers />
   </component>
