@@ -1,3 +1,5 @@
+package other;
+
 public class LangChecker {
     private static int i;
     private static String str;

@@ -1,3 +1,7 @@
+package other;
+
+import other.List;
+
 import java.util.Iterator;
 
 public class SortedListIterative <E extends Comparable<E>> extends List<E> {

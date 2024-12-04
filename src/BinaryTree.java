@@ -1,10 +1,10 @@
 /*
  *
- *  List.java
+ *  BinaryTree.java
  *
  */
 
-public abstract class List<E> implements Iterable<E> {
+public abstract class BinaryTree<E> implements Iterable<E> {
 
     protected class Node<T> {
 
@@ -13,13 +13,13 @@ public abstract class List<E> implements Iterable<E> {
         }
 
         protected T data;
-        protected Node<T> next;
+        protected Node<T> left;
+        protected Node<T> right;
     }
 
     public abstract void insert(E data);
     public abstract void remove(E data);
-    public abstract E retrieve(int index);
     public abstract boolean search(E data);
 
-    protected Node<E> head;
+    protected Node<E> root;
 }

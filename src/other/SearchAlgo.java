@@ -1,3 +1,5 @@
+package other;
+
 public class SearchAlgo {
     public static <T extends Comparable<? super T>> int bsearch(T n, T[] arr) {
         return bsearch(n, arr, 0, arr.length - 1);

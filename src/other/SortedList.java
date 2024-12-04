@@ -1,8 +1,12 @@
+package other;
+
+import other.List;
+
 import java.util.Iterator;
 
 /*
  *
- *  SortedList.java
+ *  other.SortedList.java
  *
  */
 

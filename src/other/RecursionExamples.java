@@ -1,15 +1,17 @@
+package other;
+
 public class RecursionExamples {
     public static void main(String[] args) {
-        //        System.out.println("Factorial 5" + RecursionExamples.factorial(5));
+        //        System.out.println("Factorial 5" + other.RecursionExamples.factorial(5));
         Integer[] a = {12, 23, 34, 45, 56, 67, 78, 89, 90};
-//        System.out.println("Bsearch f " + SearchAlgo.bsearch(45, a));
-//        System.out.println("Bsearch nf " + SearchAlgo.bsearch(46, a));
-//        System.out.println("Reverse " + RecursionExamples.backwardsStr("redivider"));
-//        System.out.println("SSearch f " + SearchAlgo.ssearch(45, a));
-//        System.out.println("Fibonacci " + RecursionExamples.fibonacci(9));
-//        System.out.println("Choose " + RecursionExamples.choose(4, 2));
-//        System.out.println("Choose 2 " + RecursionExamples.choose(52, 2));
-//        RecursionExamples.tower(2, 'A', 'C', 'B');
+//        System.out.println("Bsearch f " + other.SearchAlgo.bsearch(45, a));
+//        System.out.println("Bsearch nf " + other.SearchAlgo.bsearch(46, a));
+//        System.out.println("Reverse " + other.RecursionExamples.backwardsStr("redivider"));
+//        System.out.println("SSearch f " + other.SearchAlgo.ssearch(45, a));
+//        System.out.println("Fibonacci " + other.RecursionExamples.fibonacci(9));
+//        System.out.println("Choose " + other.RecursionExamples.choose(4, 2));
+//        System.out.println("Choose 2 " + other.RecursionExamples.choose(52, 2));
+//        other.RecursionExamples.tower(2, 'A', 'C', 'B');
         long tick, tock;
 
         tick = System.nanoTime();

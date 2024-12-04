@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48abecfb-1c2c-4837-8637-dad6eac299e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortsV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midterm/Midterm2012.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BacktrackAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/BacktrackAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LangChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/LangChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursionExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/RecursionExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/SearchAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/SortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedListIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/SortedListIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Sorts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortsV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/SortsV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,7 +43,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2lbepqo3kLmhpysHUh0qMxaC6TB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +55,9 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sorts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestStack.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -99,7 +116,14 @@
       <workItem from="1729083914984" duration="207000" />
       <workItem from="1729184079789" duration="3168000" />
       <workItem from="1729471071768" duration="671000" />
-      <workItem from="1729518190475" duration="2721000" />
+      <workItem from="1729518190475" duration="2747000" />
+      <workItem from="1730082158919" duration="2190000" />
+      <workItem from="1730122191594" duration="104000" />
+      <workItem from="1730292095214" duration="1082000" />
+      <workItem from="1731507660653" duration="693000" />
+      <workItem from="1731647426547" duration="1393000" />
+      <workItem from="1733147678236" duration="2313000" />
+      <workItem from="1733285171350" duration="3390000" />
     </task>
     <servers />
   </component>
