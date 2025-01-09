@@ -1,6 +1,6 @@
-/*
+package after;/*
  *
- *  BinarySearchTree.java
+ *  after.BinarySearchTree.java
  *
  */
 
@@ -12,6 +12,14 @@ public class BinarySearchTree<E extends Comparable<? super E>> extends BinaryTre
         root = insert(root, data);
     }
 
+    public void remove(E data) {
+        root = remove(root, data);
+    }
+
+    public boolean search(E data) {
+        return search(root, data) != null;
+    }
+
     private Node<E> insert(Node<E> current, E data) {
         if (current == null) return new Node<E>(data);
 
@@ -20,10 +28,6 @@ public class BinarySearchTree<E extends Comparable<? super E>> extends BinaryTre
         else if (comparison > 0) current.right = insert(current.right, data);
 
         return current;
-    }
-
-    public void remove(E data) {
-        root = remove(root, data);
     }
 
     private Node<E> remove(Node<E> current, E data) {
@@ -47,10 +51,6 @@ public class BinarySearchTree<E extends Comparable<? super E>> extends BinaryTre
         }
 
         return current;
-    }
-
-    public boolean search(E data) {
-        return search(root, data) != null;
     }
 
     private Node<E> search(Node<E> current, E data) {

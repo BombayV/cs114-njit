@@ -1,6 +1,4 @@
-import other.SortedList;
-
-import java.util.Random;
+import after.BinarySearchTree;
 
 public class Main {
     public static void main(String[] args) {
